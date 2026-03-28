@@ -1,0 +1,6 @@
+pandas
+nltk
+spacy
+textblob
+fuzzywuzzy
+python-Levenshtein
